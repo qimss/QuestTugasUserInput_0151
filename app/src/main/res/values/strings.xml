@@ -20,5 +20,6 @@
     <string name="date_format">dd/MM/yyyy</string>
     <string name="cd_calendar">Pilih tanggal</string>
     <string name="notif_title">Biodata Berhasil Dikirim</string>
+    <string name="notif_message">Nama: %1$s %2$s\nEmail: %3$s\nTgl Lahir: %4$s\nExperience: %5$s\nSkill: %6$s</string>
 
 </resources>
