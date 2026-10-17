@@ -17,5 +17,5 @@
         <dimen name="notif_radius">16dp</dimen>
         <dimen name="notif_elevation">16dp</dimen>
         <dimen name="notif_margin">24dp</dimen>
-
+        <dimen name="notif_padding">16dp</dimen>
 </resources>
