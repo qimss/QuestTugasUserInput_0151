@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FormPendaftaran</string>
+    <string name="exp_less_than_1">&lt; 1 tahun</string>
 </resources>
