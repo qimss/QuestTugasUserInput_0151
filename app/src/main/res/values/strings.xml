@@ -18,5 +18,6 @@
     <string name="btn_ok">OK</string>
     <string name="btn_cancel">Batal</string>
     <string name="date_format">dd/MM/yyyy</string>
+    <string name="cd_calendar">Pilih tanggal</string>
 
 </resources>
