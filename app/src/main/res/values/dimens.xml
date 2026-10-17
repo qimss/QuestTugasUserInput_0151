@@ -3,5 +3,6 @@
         <dimen name="banner_height">300dp</dimen>
         <dimen name="card_top_offset">220dp</dimen>
         <dimen name="card_radius">32dp</dimen>
+        <dimen name="card_elevation">12dp</dimen>
 
 </resources>
