@@ -6,5 +6,6 @@
     <string name="skill_android">Android</string>
     <string name="skill_uiux">UI/UX</string>
     <string name="skill_web">Web</string>
+    <string name="form_title">Form Biodata</string>
 
 </resources>
