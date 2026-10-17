@@ -13,5 +13,6 @@
         <dimen name="spacing_large">24dp</dimen>
         <dimen name="title_size">28sp</dimen>
         <dimen name="subtitle_size">12sp</dimen>
+        <dimen name="label_size">14sp</dimen>
 
 </resources>
