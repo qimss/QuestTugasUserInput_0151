@@ -5,5 +5,6 @@
     <string name="exp_more_than_3">Lebih dari 3 tahun</string>
     <string name="skill_android">Android</string>
     <string name="skill_uiux">UI/UX</string>
+    <string name="skill_web">Web</string>
 
 </resources>
